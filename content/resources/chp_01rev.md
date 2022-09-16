@@ -1,13 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-542j-quantitative-physiology-organ-transport-systems-spring-2004/e2055742c079f247056a818e62da1db6_chp_01rev.jpg
+file: /media/courses/hst-542j-quantitative-physiology-organ-transport-systems-spring-2004/e2055742c079f247056a818e62da1db6_chp_01rev.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_01rev.jpg
